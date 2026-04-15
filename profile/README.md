@@ -4,7 +4,7 @@
 
 OpenPhysAI is an open research organization focused on machine learning and physics-inspired modeling for scientific prediction.
 
-## 🔬 Scope
+##  Scope
 
 We explore problems across:
 - Physics
@@ -17,23 +17,23 @@ with a common goal:
 
 > Extract physical insight and predictive power from data.
 
-## 🧠 Methodology
+##  Methodology
 
 - Machine Learning
 - Physics-based Modeling
 - Computational Simulation
 - Experimental Data Analysis
 
-## 🚀 Projects
+##  Projects
 
 - diffraction-ai (single-slit diffraction + inverse problem)
 - more coming...
 
-## 🤝 Join Us
+##  Join Us
 
 Students participating in research and competitions are welcome.
 
-## 📌 Principles
+##  Principles
 
 - Reproducibility
 - Strong baselines
